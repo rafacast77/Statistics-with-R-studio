@@ -1,0 +1,2 @@
+# Statistics-with-R-studio
+Studied how to apply valuable statistics using R Studio to perform statistical designs and analyze data through visualizations charts/diagrams, descriptive statistics with one-way and two-way tables, and significant tests including parametric, non-parametric, T-test and ANOVA tests. The git-hub repository below provides more information and the project work during my studies.

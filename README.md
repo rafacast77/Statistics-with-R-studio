@@ -9,15 +9,20 @@ The documents containing the coursework details, graphs and tests with their cor
 ## Technologies and techniques used for this project
 * **Statistical design**
 	* visualizations charts/diagrams
+		* Q-Q plots
+		* Box plots
+		* Scatter plots
+		* Bar charts
+		* Pie charts 
 	* Descriptive statistics
 	* Summary statistics
 	* One-way, Two-way tables
 	* Significance tests
-	  * Parametric
-	  * Non-Parametric
-	  * Shapiro
-	  * T-test
-	  * ANOVA
+		  * Parametric
+		  * Non-Parametric
+		  * Shapiro Wilk
+		  * T-test
+		  * ANOVA
 	
 * **R Studio**
 	* ggplots2

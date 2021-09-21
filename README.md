@@ -18,11 +18,11 @@ The documents containing the coursework details, graphs and tests with their cor
 	* Summary statistics
 	* One-way, Two-way tables
 	* Significance tests
-		  * Parametric
-		  * Non-Parametric
-		  * Shapiro Wilk
-		  * T-test
-		  * ANOVA
+		* Parametric
+		* Non-Parametric
+		* Shapiro Wilk
+		* T-test
+		* ANOVA
 	
 * **R Studio**
 	* ggplots2
